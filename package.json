@@ -2,13 +2,13 @@
   "name": "queuely",
   "version": "1.0.0",
   "description": "A modification of EventEmitter that calls listeners in order and only after the one before announces it is finished",
-  "main": "run.js",
+  "main": "queuely.js",
   "scripts": {
     "test": "gulp test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thundercraker/queuely.git"
+    "url": "https://github.com/thundercraker/queuely.git"
   },
   "keywords": [
     "event",
